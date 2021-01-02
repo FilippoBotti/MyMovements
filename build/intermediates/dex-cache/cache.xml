@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_b07527634679b48f30e1b566d2fdb2eba6e0b7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a598f45ad1101a21a8bf5d02e3d59e51b09fc9b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_d09391206323b4de2cf370b605bd0c3dbd7b5101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_2618b833237d9cba6523011f699eaf85f305e253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_12a1dd23e4cfccb32391dfaf11977885ee4c4b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2d54d68f7fa193b9f1c02022ba82c099d85236d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_90adbaa98ec89d99b0b9d8726622c240c6d8f68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_07557a631952f66e116605def15bc24eeb3c02c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_95187331da6fb8bf633a3655be7d5dae58f911a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0c3f27467b0c45dc41125bc0a90561c276bbff47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_66f6d3c31817045140f7a4be8d4a9b138caac81c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_9066f42dd67afe77e7439401b0b44a9bae44d1e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_b252d348d4ed1371f061f0ef14f6f686c1e6a45b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_ae137ab279b43cb8bb27b187275a0bf830bf1b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_43450e34779d64b01f448fa3329ea63839f0c2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_2784169fe8c7537c195cffd4b6b54e05d1258621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_276d9050600b48089e9787799a4397f66ca30c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/marcopk/Desktop/University&amp;Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_3de8abf5fb5e2cbb04168d30a965f2c1cd5df087.jar" />
+    </item>
+
+</items>

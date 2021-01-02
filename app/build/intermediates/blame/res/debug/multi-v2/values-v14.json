@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\filip\\Desktop\\Scrivania\\FILIPPO_UNI\\MobDev\\hello-tabs - Copia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\filip\\Desktop\\Scrivania\\FILIPPO_UNI\\MobDev\\hello-tabs - Copia\\app\\src\\main\\res\\values-v14\\google_maps_api.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "0",
+                        "startOffsets": "803",
+                        "endColumns": "133",
+                        "endOffsets": "936"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "137",
+                        "endOffsets": "188"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\filip\\Desktop\\Scrivania\\FILIPPO_UNI\\MobDev\\hello-tabs - Copia\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "372"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "193",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "336"
+                    }
+                }
+            ]
+        }
+    ]
+}

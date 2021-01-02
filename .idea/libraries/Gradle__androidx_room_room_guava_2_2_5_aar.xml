@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-guava:2.2.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3a77eb1e7a58888f3d02c57068d6cc7/room-guava-2.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b37aae04ec60e699f667e66242349f4e/room-guava-2.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b37aae04ec60e699f667e66242349f4e/room-guava-2.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b37aae04ec60e699f667e66242349f4e/room-guava-2.2.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-guava/2.2.5/f4a1ac22b3999fbc255d6080bb7fa17a1cadf010/room-guava-2.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

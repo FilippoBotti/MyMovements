@@ -1,0 +1,4 @@
+#Sun Nov 20 11:29:46 CET 2016
+base.0=/Users/marcopk/Desktop/University&Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/marcopk/Desktop/University&Research/Courses/2016-MobDev/Android/src/HelloTabs/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

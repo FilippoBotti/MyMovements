@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\filip\\Desktop\\Scrivania\\FILIPPO_UNI\\MobDev\\hello-tabs - Copia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\filip\\Desktop\\Scrivania\\FILIPPO_UNI\\MobDev\\hello-tabs - Copia\\app\\src\\main\\res\\values-v17\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "479"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "469"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\filip\\.gradle\\caches\\transforms-2\\files-2.1\\f7fa931c10060cb31b4ececcd856b65d\\appcompat-1.1.0\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1161,1331,1559,1783,2025,2196,2370,2539,2812,3012,3216",
+                        "endLines": "4,8,11,14,17,21,24,28,32,36,39,42,45,49,52,56,60",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1156,1326,1554,1778,2020,2191,2365,2534,2807,3007,3211,3540"
+                    },
+                    "to": {
+                        "startLines": "9,12,16,19,22,25,29,32,36,40,44,47,50,53,57,60,64",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "474,647,875,1033,1183,1355,1580,1750,1978,2202,2444,2615,2789,2958,3231,3431,3635",
+                        "endLines": "11,15,18,21,24,28,31,35,39,43,46,49,52,56,59,63,67",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "642,870,1028,1178,1350,1575,1745,1973,2197,2439,2610,2784,2953,3226,3426,3630,3959"
+                    }
+                }
+            ]
+        }
+    ]
+}

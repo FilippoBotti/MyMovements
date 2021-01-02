@@ -1,0 +1,4 @@
+#Sun Nov 26 21:42:15 CET 2017
+base.0=/Users/marcopk/Desktop/University&Research/Courses/2017-MobDev/Android/src/HelloTabs/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

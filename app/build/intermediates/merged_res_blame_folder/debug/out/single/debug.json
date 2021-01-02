@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_fragment.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\info_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_background.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_directions_walk_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_directions_walk_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shoes.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shoes_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shoes_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_query_stats_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_query_stats_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_directions_walk_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_directions_walk_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_play_arrow_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_play_arrow_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_directions_car_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_directions_car_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_directions_car_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_directions_car_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_directions_car_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_directions_car_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_directions_walk_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_directions_walk_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_directions_bus_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_directions_bus_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_routelistview_element.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\routelistview_element.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_query_stats_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_query_stats_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shoes.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_directions_car_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_directions_car_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_map_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_map_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_play_arrow_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_play_arrow_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_emoji_transportation_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_emoji_transportation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_directions_walk_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_directions_walk_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_local_fire_department_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_local_fire_department_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shoes.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_fragment_activity.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\single_fragment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_directions_bus_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_directions_bus_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_directions_walk_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_directions_walk_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shoes_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shoes_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shoes_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shoes_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_directions_car_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_directions_car_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shoes.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_directions_walk_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_directions_walk_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_map_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_map_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_local_fire_department_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_local_fire_department_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_timer_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_timer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_directions_bus_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_directions_bus_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_query_stats_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_query_stats_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_local_fire_department_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_local_fire_department_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_map_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_map_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_directions_car_24_black.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_directions_car_24_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_local_fire_department_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_local_fire_department_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_map_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_map_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_item.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\cardview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shoes_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shoes_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delivery.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\drawable-mdpi\\delivery.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_query_stats_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_query_stats_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_local_fire_department_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_local_fire_department_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_directions_car_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_directions_car_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_query_stats_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_query_stats_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_play_arrow_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_play_arrow_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_map_layout.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\map_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_fragment.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\history_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shoes_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shoes_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_play_arrow_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_play_arrow_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_directions_bus_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_directions_bus_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_directions_car_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_directions_car_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_emoji_transportation_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_emoji_transportation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_map_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_play_arrow_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_play_arrow_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_directions_car_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_directions_car_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_stats_grid_layout.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\stats_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_directions_bus_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_directions_bus_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_directions_car_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_directions_car_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_directions_car_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_directions_car_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shoes_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shoes_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shoes.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_viewpager_activity.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\tab_viewpager_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_directions_bus_24_black.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_directions_bus_24_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shoes.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_background.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\drawable\\red_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_map_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_map_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_local_fire_department_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_local_fire_department_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_layout.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\layout\\settings_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_emoji_transportation_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_emoji_transportation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_directions_car_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_directions_car_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_play_arrow_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_emoji_transportation_24.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_emoji_transportation_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_directions_bus_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_directions_bus_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_emoji_transportation_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_emoji_transportation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_directions_bus_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_directions_bus_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_directions_walk_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_directions_walk_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_layout.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\src\\main\\res\\menu\\menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shoes.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_play_arrow_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_play_arrow_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_map_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_map_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_emoji_transportation_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_emoji_transportation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_emoji_transportation_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_emoji_transportation_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_directions_car_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_directions_car_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_query_stats_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_query_stats_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shoes_black.xml.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shoes_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_local_fire_department_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_local_fire_department_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_query_stats_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_query_stats_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_directions_car_24_black.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_directions_car_24_black.png"
+    },
+    {
+        "merged": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\bottic\\Desktop\\Filippo\\hello-tabs - Copia - Copia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_settings_24.png"
+    }
+]

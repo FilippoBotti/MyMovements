@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusableInTouchMode="true"
+    android:padding="16dp"
+    android:background="@color/grey_50">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/settings_card"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="8dp"
+        android:clickable="true"
+        android:focusableInTouchMode="true"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="8dp"
+        app:cardBackgroundColor="@color/colorPrimaryDark"
+        >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                android:gravity="center_horizontal">
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignRight="@+id/walkImage"
+                android:src="@drawable/ic_baseline_directions_car_24"
+                />
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_baseline_directions_bus_24"
+                />
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/walkImage"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_shoes"
+                />
+            </LinearLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/settings_name"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            android:textColorHint="@color/grey_50">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/nameVal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Name"
+            android:textColor="@color/grey_50" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/settings_weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            android:textColorHint="@color/grey_50">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/weightVal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Weight (Kg)"
+                android:inputType="numberDecimal"
+                android:textColor="@color/grey_50" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/settings_map"
+                android:layout_width="match_parent"
+                android:inputType="none"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimaryDark"
+                android:textColorHint="@color/grey_50">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/mapVal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:ems="10"
+                android:hint="Map"
+                android:textColor="@color/grey_50" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:background="@drawable/white_background"
+            android:text="@string/Save"/>
+            </LinearLayout>
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

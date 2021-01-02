@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-tabs_-_Copia_-_Copia.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-tabs_-_Copia_-_Copia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hello-tabs_-_Copia_-_Copia.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hello-tabs_-_Copia_-_Copia.app.iml" />
+    </modules>
+  </component>
+</project>

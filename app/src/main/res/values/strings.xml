@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMovements</string>
+    <string name="action_info">Info</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="Start">START</string>
+    <string name="Stop">STOP</string>
+    <string name="Save">Save</string>
+    <string name="SaveButton">Do you want to save your info?</string>
+    <string name="FirstMessage">Welcome </string>
+    <string name="SecondMessage">\nHere\'s your stats</string>
+    <string name="Coordinates">Points</string>
+    <string name="SetChange">Apply Changes</string>
+    <string name="ChangeStatsView">Change Stats View</string>
+    <string name="Driving">Driving</string>
+    <string name="PublicTransport">Bus</string>
+    <string name="Walking">Walking</string>
+    <string name="Calories">Last Calories</string>
+    <string name="Duration">Last Duration</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove_element_message">Are you sure to delete the selected item ?</string>
+    <string name="SettingsText">Welcome! Please insert your name</string>
+    <string name="All">All</string>
+    <string name="export">Export</string>
+    <string-array name="transport">
+        <item>Walking</item>
+        <item>Driving</item>
+        <item>Public Transportation</item>
+    </string-array>
+    <string-array name="mapType">
+        <item>Satellite Map</item>
+        <item>Terrain Map</item>
+        <item>Hybrid Map</item>
+        <item>Normal Map</item>
+    </string-array>
+</resources>
