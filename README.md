@@ -45,9 +45,10 @@ La consegna del progetto riguardava lo sviluppo di un'applicazione Android per l
 Le features principali del progetto erano: 
 1. Gestione delle funzioni di geolocalizzazione dell'utente grazie ai servizi Google
 2. Elaborazione del percorso di un utente e disegno del percorso (finito) attraverso le mappe Google
-3. Gestione dei percorsi attraverso un DB (ho utilizzato Room) e classica gestione CRUD 
-4. Le statistiche le ho inserite io, per un'App più completa e meno vuota
-5. Anche la gestione del percorso realtime sulle mappe è una feature che ho inserito io
+3.  Gestione dei percorsi attraverso un DB (ho utilizzato Room) e classica gestione CRUD 
+4.  Le statistiche le ho inserite io, per un'App più completa e meno vuota
+5.  Anche la gestione del percorso realtime sulle mappe è una feature che ho inserito io
+
 
 Un'App molto divertente da sviluppare. I servizi Google molto facili da gestire, forse la cosa più complessa è stato il design degli XML per i vari fragment, ma adesso che è uscito Jetpack Compose non dovrebbe essere un problema ricreare tutto il layout. <br>
 Mio primo vero e proprio progetto, dove posso dire di aver imparato le basi dell'ignegneria del Software, e dove mi è nato il mio amore per lo sviluppo mobile. <br>
