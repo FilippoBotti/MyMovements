@@ -19,13 +19,9 @@ Comincia a tenere traccia delle tue corse e delle tue camminate, con un comodiss
 
 
 <img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Transport.png" alt="img-verification" width="250" align="left"/>
-Ovviamente la <em>Customizzazione</em> è massima e puoi scegliere con quale mezzo di trasporto registrare i tuoi spostamenti
+Ovviamente la <em>Customizzazione</em> è massima: puoi scegliere con quale mezzo di trasporto registrare i tuoi spostamenti e impostare i tuoi dati per il calcolo delle calorie. E se non ti piacciono puoi cambiare tipologie di mappe
 
 <img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Settings.png" alt="img-verification" width="250" align="left"/>
-<p align="right">
-   E se la mappa non ti piace puoi cambiarla nelle impostazioni! <br>
-Imposta qui i tuoi dati per il calcolo delle calorie.
-</p>
 
 
                         
