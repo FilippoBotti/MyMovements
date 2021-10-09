@@ -12,16 +12,16 @@ Scritta in Java e disponibile per tutti i dispositivi Android, col suo design mi
 
 <h2>Vai con la solita carrellata di immagini</h2>
 
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Start.png" alt="img-verification" width="300" align="left"/>
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Start.png" alt="img-verification" width="250" align="left"/>
 Ti stai per allenare? <strong>Clicca su start!</Strong>
 <br>
 Comincia a tenere traccia delle tue corse e delle tue camminate, con un comodissimo click
 
 
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Transport.png" alt="img-verification" width="300" align="left"/>
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Transport.png" alt="img-verification" width="250" align="left"/>
 Ovviamente la <em>Customizzazione</em> è massima e puoi scegliere con quale mezzo di trasporto registrare i tuoi spostamenti
 
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Settings.png" alt="img-verification" width="300" align="left"/>
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyMovements/blob/master/images/Settings.png" alt="img-verification" width="250" align="left"/>
 <p align="right">
    E se la mappa non ti piace puoi cambiarla nelle impostazioni! <br>
 Imposta qui i tuoi dati per il calcolo delle calorie.
